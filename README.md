@@ -1,6 +1,8 @@
 # Universal Hierarchy Site Map Project
 ##### Remapping University Bookstore website site structure in correlation with UH (Universal Hierarchy) proposed outline.
 
+Created by Shaun W.
+
 ###Women's
 https://www.bookstore.txstate.edu/c-755-womens.aspx
      https://www.bookstore.txstate.edu/c-844-bobcat-fashion.aspx
