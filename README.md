@@ -119,5 +119,6 @@ Created by Shaun W.
 
 ###Texas State Ring
 * https://www.bookstore.txstate.edu/c-848-texas-state-rings.aspx
+
 ###Seasonal
 * https://www.bookstore.txstate.edu/c-217-seasonal.aspx
